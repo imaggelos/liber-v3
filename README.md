@@ -83,4 +83,3 @@ The APK will be at `android/app/build/outputs/apk/debug/app-debug.apk`.
   own default launcher icon unless you generate one — swap it out with
   [`@capacitor/assets`](https://github.com/ionic-team/capacitor-assets) later
   if you want a custom one.
-.
